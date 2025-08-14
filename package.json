@@ -1,0 +1,19 @@
+{
+  "name": "Intern_Project",
+  "version": "1.0.0",
+  "description": "Code for Intern Project",
+  "main": "solution.js",
+  "scripts": {
+    "test": "node solution.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayaporalla/Intern_Project.git"
+  },
+  "author": "Jayasri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayaporalla/Intern_Project/issues"
+  },
+  "homepage": "https://github.com/jayaporalla/Intern_Project#readme"
+}
